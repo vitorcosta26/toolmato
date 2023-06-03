@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391681745345",
+    "project_id": "toolmato-9552a",
+    "storage_bucket": "toolmato-9552a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391681745345:android:63caa7d2536c97eb66cf40",
+        "android_client_info": {
+          "package_name": "com.example.toolmato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAtqYkn7WIYm1MJ8je5JxmlyT8yVLMXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
